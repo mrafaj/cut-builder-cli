@@ -162,3 +162,7 @@ cython_debug/
 # Video file types
 .mkv
 .mp4
+
+# Inputs and outputs
+test.txt
+ffmpeg-script.bat
